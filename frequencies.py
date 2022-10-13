@@ -3,7 +3,6 @@
 
 def frequencies(items):
     frequencies = dict()
-    tempList = []
 
     for i in range (len(items)):
         items[i] = str(items[i])
